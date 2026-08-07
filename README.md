@@ -25,6 +25,9 @@ The official agent plugin by **PREISmonitoring**. It connects AI clients to the 
 - An AI client that speaks MCP over Streamable HTTP with OAuth redirection.
 - A local environment that can open a browser and accept a callback on `127.0.0.1`.
 
+No access yet? A time-limited free API account can be requested at
+<https://www.preismonitoring.de/kontakt>.
+
 ## Installation
 
 This package ships several manifest layouts because clients read different locations. The declared server is identical in all of them.
