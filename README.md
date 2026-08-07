@@ -104,7 +104,7 @@ We call a client supported only once PREISmonitoring has connected it successful
 | --- | --- |
 | Codex | verified against `live`; tool listing and a business read call succeeded |
 | Claude Code | verified against `live`; tool listing and a business read call succeeded |
-| Visual Studio Code | verified against `live`; tool listing succeeded |
+| Visual Studio Code | verified against `live`; tool listing and a business read call succeeded |
 | Goose | not a plugin consumer, see the extension route above |
 
 ## Support
