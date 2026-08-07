@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/preismonitoring-logo.svg" alt="PREISmonitoring" width="320">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/preismonitoring-logo-negativ.svg">
+    <img src="assets/preismonitoring-logo.svg" alt="PREISmonitoring" width="340">
+  </picture>
 </p>
 
 # PREISmonitoring MCP — Agent Plugin
@@ -18,7 +21,7 @@ The official agent plugin by **PREISmonitoring**. It connects AI clients to the 
 
 ## Requirements
 
-- A PREISmonitoring account. Administrative accounts are blocked from API access and receive no token.
+- A PREISmonitoring account.
 - An AI client that speaks MCP over Streamable HTTP with OAuth redirection.
 - A local environment that can open a browser and accept a callback on `127.0.0.1`.
 
