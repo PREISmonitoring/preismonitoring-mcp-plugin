@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/preismonitoring-logo.svg" alt="PREISmonitoring" width="320">
+</p>
+
 # PREISmonitoring MCP — Agent Plugin
 
 The official agent plugin by **PREISmonitoring**. It connects AI clients to the PREISmonitoring API over the Model Context Protocol and exposes your market price, observation and item data as tools.

@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "preismonitoring-mcp",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "description": "Official PREISmonitoring agent plugin: market price, observation and item data over MCP, with OAuth sign-in handled by your client.",
       "author": {
         "name": "PREISmonitoring"
